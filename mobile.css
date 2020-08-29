@@ -17,6 +17,7 @@
     width: 100%;
 
     margin-top: 0;
+    justify-content: center;
   }
 
   .image img {
@@ -63,5 +64,8 @@
     align-items: center;
     margin-top: 0px;
     transition: 400ms;
+  }
+  .image img {
+    margin-left: 0px;
   }
 }
