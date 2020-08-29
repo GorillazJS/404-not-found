@@ -103,6 +103,11 @@ body {
 
   transition: 400ms;
 }
+.text a:hover {
+  color: #333333;
+  background-color: #fff;
+  border: 3px solid;
+}
 .text a strong {
   font-family: Space Mono;
   font-style: normal;
