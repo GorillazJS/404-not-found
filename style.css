@@ -52,7 +52,7 @@ body {
   height: 100%;
   width: 100%;
 
-  margin-top: 20vh;
+  margin-top: 10vh;
 }
 .image img {
   height: 70%;
@@ -61,7 +61,7 @@ body {
 .text {
   height: 100%;
   width: 100%;
-  margin-top: 20vh;
+  margin-top: 10vh;
 }
 .text h1 {
   font-family: Space Mono;
